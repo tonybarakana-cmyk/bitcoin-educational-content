@@ -1,12 +1,12 @@
 ---
-name: Bitcoin ku bucuruzi
-goal: Menya ivy’ishimikiro vyo kwishura n’ivy’ububiko kugira ngo ushire mu bwato ishirahamwe ryawe kuri Bitcoin.
+name: Bitcoin ku Nganda 
+goal: Menya ivy’ishimikiro vyo kwishura n’ivy’ububiko kugira ngo ushire  uruganda  ryawe mwikoreshwa rya  Bitcoin.
 objectives: 
 
-  - Bitcoin nk'ifaranga rishasha n'igikoresho c'ubudandaji
-  - Gutahura igituma n’ingene ubucuruzi bushobora gufata Bitcoin mu bubiko canke bukayikoresha mu kwishura .
-  - Ugire iciyumviro nyaco c'ingene wokwemera kwishurwa Bitcoin mu bikorwa
-  - Niwitegure gucunga ibisabwa mu vy'ubutunzi n'ivy'ubuhinga bw'ivy'ubuhinga
+  - Bitcoin ifaranga rishasha  ; igikoresho c'ubudandaji
+  - Gutahura  ingene n'igituma uruganda rushobora gufita Bitcoin  mu bubiko bwayo canke rukayikoresha muburyo bwokwishura.
+  - gira  iciyumviro kirashe muvyiyemezwa ry'irihwa muma Bitcoin mu bikorwa.
+  - Niwitegure gutunganya  ibisabwa mu vy'ubutunzi n'ivy'ubuhinga bw'ivy'ubuhinga
 
 ---
 
